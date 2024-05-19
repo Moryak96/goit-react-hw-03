@@ -1,5 +1,5 @@
 import css from './Contact.module.css'
-import { FaUser, FaPhone } from "./Contact.module.css";
+import { FaUser, FaPhone } from "react-icons/fa";
 
 export default function Contact({ contact, onClick}) {
   return (
